@@ -1,2 +1,4 @@
 # BoomBeach-ArxanBypass
-Frida script to bypass Arxan protection on Boom Beach. Folders name is the Boom Beach apk version.
+Frida script to bypass Arxan protection on Boom Beach. 
+
+Folder names are the Boom Beach apk versions.
